@@ -1,7 +1,0 @@
-POST metric-zed-94842.herokuapp.com/api/persons
-Content-Type: application/json
-
-{
-    "name": "abdul",
-    "number": "03030303"
-}
